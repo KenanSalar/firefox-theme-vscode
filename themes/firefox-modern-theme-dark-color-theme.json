@@ -360,7 +360,7 @@
     "tab.unfocusedActiveBorderTop": "#758992",
     "tab.lastPinnedBorder": "#17161bd7",
 
-    "terminal.ansiBlack": "#1f1e25",
+    "terminal.ansiBlack": "#27262e",
     "terminal.ansiRed": "#925b4a",
     "terminal.ansiGreen": "#4b9461",
     "terminal.ansiYellow": "#919140",
@@ -368,7 +368,7 @@
     "terminal.ansiMagenta": "#674086",
     "terminal.ansiCyan": "#2c8b8b",
     "terminal.ansiWhite": "#9996aa",
-    "terminal.ansiBrightBlack": "#312f3a",
+    "terminal.ansiBrightBlack": "#444250",
     "terminal.ansiBrightRed": "#af6e5a",
     "terminal.ansiBrightGreen": "#61b179",
     "terminal.ansiBrightYellow": "#a8a85d",
@@ -479,7 +479,7 @@
         "markup.fenced_code.block"
       ],
       "settings": {
-        "foreground": "#a6d6d6",
+        "foreground": "#c9cfe0",
         "fontStyle": ""
       }
     },
@@ -491,7 +491,7 @@
         "variable.import.parameter"
       ],
       "settings": {
-        "foreground": "#a6c4c4",
+        "foreground": "#b5bdd3",
         "fontStyle": "italic"
       }
     },
@@ -1633,7 +1633,7 @@
       "fontStyle": ""
     },
     "enumMember": {
-      "foreground": "#c39dce",  
+      "foreground": "#c39dce",
       "fontStyle": "bold"
     },
     "field": {
@@ -1669,7 +1669,7 @@
       "fontStyle": ""
     },
     "parameter": {
-      "foreground": "#a6c4c4",
+      "foreground": "#b5bdd3",
       "fontStyle": "italic"
     },
     "typeParameter": {
@@ -1800,12 +1800,33 @@
       "foreground": "#b3a5d8",
       "fontStyle": "bold"
     },
-    "xmlDocCommentName": "#467daa",
-    "xmlDocCommentText": "#bbbcca",
-    "xmlDocCommentComment": "#afc4aa",
-    "xmlDocCommentAttributeName": "#a267a7",
-    "xmlDocCommentAttributeValue": "#77a080",
-    "xmlDocCommentAttributeQuotes": "#77a080",
-    "xmlDocCommentDelimiter": "#879282"
+    "xmlDocCommentName": {
+      "foreground": "#467daa",
+      "fontStyle": "italic"
+    },
+    "xmlDocCommentText": {
+      "foreground": "#bbbcca",
+      "fontStyle": "italic"
+    },
+    "xmlDocCommentComment": {
+      "foreground": "#afc4aa",
+      "fontStyle": "italic"
+    },
+    "xmlDocCommentDelimiter": {
+      "foreground": "#879282",
+      "fontStyle": "italic"
+    },
+    "xmlDocCommentAttributeName": {
+      "foreground": "#a267a7",
+      "fontStyle": "italic"
+    },
+    "xmlDocCommentAttributeValue": {
+      "foreground": "#77a080",
+      "fontStyle": "italic"
+    },
+    "xmlDocCommentAttributeQuotes": {
+      "foreground": "#77a080",
+      "fontStyle": "italic"
+    }
   }
 }

@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Firefox Modern Theme",
+        "label": "Firefox Modern Theme Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/firefox-modern-theme-dark-color-theme.json"
       },
@@ -20,6 +20,11 @@
         "label": "Firefox Modern Theme Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/firefox-modern-theme-darker-color-theme.json"
+      },
+      {
+        "label": "Firefox Modern Theme Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/firefox-modern-theme-light-color-theme.json"
       }
     ]
   }
