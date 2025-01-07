@@ -212,7 +212,7 @@
     "gitDecoration.conflictingResourceForeground": "#89a9b8",
 
     "menu.border": "#52525ec4",
-    "menu.background": "#42414d",
+    "menu.background": "#1f1e25",
     "menu.foreground": "#aaabae",
     "menu.separatorBackground": "#17161bd7",
     "menu.selectionForeground": "#d4d3db",
