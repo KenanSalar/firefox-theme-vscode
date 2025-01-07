@@ -14,7 +14,12 @@
       {
         "label": "Firefox Modern Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Firefox Modern Theme-color-theme.json"
+        "path": "./themes/firefox-modern-theme-color-theme.json"
+      },
+      {
+        "label": "Firefox Modern Theme Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/firefox-modern-theme-darker-color-theme.json"
       }
     ]
   }
