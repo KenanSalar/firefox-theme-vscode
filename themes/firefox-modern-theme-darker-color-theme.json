@@ -1,5 +1,5 @@
 {
-  "name": "Firefox Modern Theme",
+  "name": "Firefox Modern Theme Darker",
   "colors": {
     "contrastBorder": "#00000000",
     "contrastActiveBorder": "#00000000",
@@ -64,7 +64,7 @@
     "profileBadge.foreground": "#17161b",
 
     "commandCenter.border": "#17161bd7",
-    "commandCenter.background": "#17161b",
+    "commandCenter.background": "#35343d9f",
     "commandCenter.foreground": "#9f9dac",
     "commandCenter.activeBorder": "#17161bd7",
     "commandCenter.inactiveBorder": "#17161bd7",
@@ -103,19 +103,19 @@
 
     "editorCursor.background": "#d4d3db",
 
-    "editorBracketHighlight.foreground1": "#5d968f",
-    "editorBracketHighlight.foreground2": "#a79bca",
-    "editorBracketHighlight.foreground3": "#bdaa9e",
-    "editorBracketHighlight.foreground4": "#81b1d6",
-    "editorBracketHighlight.foreground5": "#bb8ea8",
-    "editorBracketHighlight.foreground6": "#b37c75",
+    "editorBracketHighlight.foreground1": "#909194",
+    "editorBracketHighlight.foreground2": "#9d92c0",
+    "editorBracketHighlight.foreground3": "#b19d91",
+    "editorBracketHighlight.foreground4": "#6d95b6",
+    "editorBracketHighlight.foreground5": "#aa7d97",
+    "editorBracketHighlight.foreground6": "#588f88",
 
-    "editorBracketPairGuide.activeBackground1": "#5d968fb0",
-    "editorBracketPairGuide.activeBackground2": "#a79bcab0",
-    "editorBracketPairGuide.activeBackground3": "#bdaa9eb0",
-    "editorBracketPairGuide.activeBackground4": "#81b1d6b0",
-    "editorBracketPairGuide.activeBackground5": "#bb8ea8b0",
-    "editorBracketPairGuide.activeBackground6": "#b37c75b0",
+    "editorBracketPairGuide.activeBackground1": "#909194b0",
+    "editorBracketPairGuide.activeBackground2": "#9d92c0b0",
+    "editorBracketPairGuide.activeBackground3": "#b19d91b0",
+    "editorBracketPairGuide.activeBackground4": "#6d95b6b0",
+    "editorBracketPairGuide.activeBackground5": "#aa7d97b0",
+    "editorBracketPairGuide.activeBackground6": "#588f88b0",
 
     "editorBracketHighlight.unexpectedBracket.foreground": "#be4848",
 
@@ -253,8 +253,8 @@
     "panel.dropBorder": "#1a2c36dc",
     "panelSection.border": "#1a2c36dc",
     "panelTitle.activeBorder": "#9996aa",
-    "panelTitle.activeForeground": "#9996aa",
-    "panelTitle.inactiveForeground": "#5d5f62",
+    "panelTitle.activeForeground": "#d4d3db",
+    "panelTitle.inactiveForeground": "#9695a0",
     "panelSectionHeader.background": "#5d5f6220",
     "panelSectionHeader.foreground": "#d4d3db",
     "panelSectionHeader.border": "#1a2c36dc",
@@ -393,9 +393,9 @@
     "walkThrough.embeddedEditorBackground": "#17161b",
 
     "titleBar.activeBackground": "#1f1e25",
-    "titleBar.activeForeground": "#5d5f62",
+    "titleBar.activeForeground": "#d4d3db",
     "titleBar.inactiveBackground": "#1f1e25",
-    "titleBar.inactiveForeground": "#5d5f62",
+    "titleBar.inactiveForeground": "#9695a0",
     "titleBar.border": "#17161bd7",
 
     "editorUnnecessaryCode.border": "#00000000",
@@ -419,7 +419,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#a5bda0"
+        "foreground": "#91aa8c"
       }
     },
     {
@@ -479,7 +479,7 @@
         "markup.fenced_code.block"
       ],
       "settings": {
-        "foreground": "#bdc3d4",
+        "foreground": "#babfd1",
         "fontStyle": ""
       }
     },
@@ -521,7 +521,6 @@
         "meta.attribute.id entity.other.attribute-name",
         "text.html entity.other.attribute-name",
         "meta.tag.attributes entity.other.attribute-name",
-        "text.xml entity.other.attribute-name",
         "source.cs entity.other.attribute-name",
         "constant.character.format.placeholder",
         "constant.other.placeholder",
@@ -838,7 +837,8 @@
         "entity.name.variable.field",
         "entity.name.variable.field.cs",
         "variable.other.field",
-        "variable.other.object.field"
+        "variable.other.object.field",
+        "text.xml entity.other.attribute-name"
       ],
       "settings": {
         "foreground": "#bb8ea8",
@@ -1721,7 +1721,7 @@
       "fontStyle": ""
     },
     "comment": {
-      "foreground": "#a5bda0",
+      "foreground": "#91aa8c",
       "fontStyle": "italic"
     },
     "text": {
@@ -1733,11 +1733,11 @@
       "fontStyle": "italic"
     },
     "markupComment": {
-      "foreground": "#a5bda0",
+      "foreground": "#91aa8c",
       "fontStyle": "italic"
     },
     "markupCommentPunctuation": {
-      "foreground": "#a5bda0",
+      "foreground": "#91aa8c",
       "fontStyle": "italic"
     },
     "markupOperator": {
@@ -1765,7 +1765,7 @@
       "fontStyle": ""
     },
     "razorComment": {
-      "foreground": "#a5bda0",
+      "foreground": "#91aa8c",
       "fontStyle": "italic"
     },
     "razorTransition": {
@@ -1801,15 +1801,15 @@
       "fontStyle": "bold"
     },
     "xmlDocCommentName": {
-      "foreground": "#467daa",
+      "foreground": "#988db9",
       "fontStyle": "italic"
     },
     "xmlDocCommentText": {
-      "foreground": "#b4b5c5",
+      "foreground": "#9eaa9c",
       "fontStyle": "italic"
     },
     "xmlDocCommentComment": {
-      "foreground": "#a5bda0",
+      "foreground": "#91aa8c",
       "fontStyle": "italic"
     },
     "xmlDocCommentDelimiter": {
@@ -1817,7 +1817,7 @@
       "fontStyle": "italic"
     },
     "xmlDocCommentAttributeName": {
-      "foreground": "#a267a7",
+      "foreground": "#ad839c",
       "fontStyle": "italic"
     },
     "xmlDocCommentAttributeValue": {
