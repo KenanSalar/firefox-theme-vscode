@@ -2,12 +2,57 @@
   "name": "firefox-modern-theme",
   "displayName": "Firefox Modern Theme",
   "description": "Firefox Modern Theme is a sleek and visually captivating Visual Studio Code theme inspired by the aesthetics of Mozilla Firefox.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "kenan-salar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KenanSalar/firefox-theme-vscode.git"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "mozilla",
+    "firefox",
+    "dark",
+    "darker",
+    "light",
+    "theme",
+    "default",
+    "color",
+    "syntax",
+    "highlighting",
+    "dark theme",
+    "darker theme",
+    "light theme",
+    "color theme",
+    "syntax highlighting",
+    "firefox modern theme",
+    "firefox modern syntax",
+    "firefox modern highlighting",
+    "firefox modern color",
+    "firefox modern syntax highlighting",
+    "firefox modern dark theme",
+    "firefox modern darker theme",
+    "firefox modern light theme",
+    "firefox modern color theme",
+    "firefox modern syntax highlighting theme",
+    "beautiful",
+    "beautiful theme",
+    "beautiful syntax highlighting",
+    "beautiful dark theme",
+    "readable",
+    "readable theme",
+    "readable syntax highlighting",
+    "readable dark theme",
+    "readable darker theme",
+    "readable light theme",
+    "relaxing",
+    "relaxing theme"
   ],
   "contributes": {
     "themes": [
