@@ -1,5 +1,11 @@
 # Change Log
 
+## Changes of version 1.0.4
+
+- Adjusted README formatting
+
+---
+
 ## Changes of version 1.0.3
 
 - Adjusted terminal colors
