@@ -231,12 +231,13 @@
     "editorOverviewRuler.currentContentForeground": "#cf4d4d",
     "editorOverviewRuler.incomingContentForeground": "#67cf85",
 
-    "minimap.background": "#27262e",
+    "minimap.background": "#27262e9d",
     "minimap.errorHighlight": "#cf4d4d",
     "minimap.warningHighlight": "#edb492",
     "minimapGutter.addedBackground": "#67cf85",
     "minimapGutter.deletedBackground": "#cf4d4d",
     "minimapGutter.modifiedBackground": "#63c0ff",
+    "minimap.foregroundOpacity" : "default",
 
     "notificationCenterHeader.foreground": "#d4d3db",
     "notificationCenterHeader.background": "#5772a0",
