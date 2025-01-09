@@ -15,21 +15,20 @@ Firefox Modern Theme is a sleek and visually captivating Visual Studio Code them
 <br>
 
 ---
+<br>
 
 ### Firefox Modern Theme Dark Preview
 
-<br>
-
 ![Dark Theme Preview](https://github.com/KenanSalar/firefox-theme-vscode/blob/main/resources/images/previews/firefox-modern-theme-dark/FirefoxModernThemeDark.gif?raw=true)
+
+<br>
 
 ### Firefox Modern Theme Darker Preview
 
-<br>
-
 ![Dark Theme Preview](https://github.com/KenanSalar/firefox-theme-vscode/blob/main/resources/images/previews/firefox-modern-theme-darker/FirefoxModernThemeDarker.gif?raw=true)
 
-### Firefox Modern Theme Light Preview
-
 <br>
+
+### Firefox Modern Theme Light Preview
 
 ![Dark Theme Preview](https://github.com/KenanSalar/firefox-theme-vscode/blob/main/resources/images/previews/firefox-modern-theme-light/FirefoxModernThemeLight.gif?raw=true)
