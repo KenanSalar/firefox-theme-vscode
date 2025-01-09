@@ -1,5 +1,11 @@
 # Change Log
 
+## Changes of version 1.0.5
+
+- New logo
+
+---
+
 ## Changes of version 1.0.4
 
 - Adjusted README formatting

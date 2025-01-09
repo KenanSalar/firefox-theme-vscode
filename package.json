@@ -3,7 +3,7 @@
   "displayName": "Firefox Modern Theme",
   "description": "Firefox Modern Theme is a sleek and visually captivating Visual Studio Code theme inspired by the aesthetics of Mozilla Firefox.",
   "icon": "resources/images/icon.png",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "kenan-salar",
   "license": "MIT",
   "repository": {
