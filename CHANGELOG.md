@@ -1,5 +1,11 @@
 # Change Log
 
+## Changes of version 1.0.2
+
+- Changed the logo and icon slightly
+
+---
+
 ## Changes of version 1.0.1
 
 - Changed minimap background opacity of all three themes to semi transparent

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/KenanSalar/firefox-theme-vscode/blob/main/resources/images/logo.png?raw=true" alt="Logo" width="512">
+  <img src="https://github.com/KenanSalar/firefox-theme-vscode/blob/main/resources/images/logo.png?raw=true" alt="Logo" width="384">
   <br><br><br>
   <h1>Firefox Modern Theme for Visual Studio Code</h1>
 </div>
