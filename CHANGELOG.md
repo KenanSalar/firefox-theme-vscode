@@ -1,5 +1,12 @@
 # Change Log
 
+## Changes of version 1.0.3
+
+- Adjusted terminal colors
+- Light theme is now slightly darker
+
+---
+
 ## Changes of version 1.0.2
 
 - Changed the logo and icon slightly
