@@ -6,6 +6,6 @@
 
 ---
 
-## Release of the Firefox Modern Theme
+## Release of the Firefox Modern Theme Version 1.0.0
 
 - Initial release
