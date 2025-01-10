@@ -1,5 +1,14 @@
 # Change Log
 
+## Changes of version 1.0.6
+
+- Fixed tab behavior and colorization
+- Constants and enums now have the same color as numbers
+- Constants are not bold anymore (only enum members are bold)
+- Dropborder color now matches the theme
+
+---
+
 ## Changes of version 1.0.5
 
 - New logo

@@ -12,7 +12,7 @@
     "activityBar.activeBackground": "#35343d",
     "activityBarBadge.background": "#9996aa",
     "activityBarBadge.foreground": "#1f1e25",
-    "activityBar.dropBorder": "#5d5f6233",
+    "activityBar.dropBorder": "#52525ec4",
 
     "welcomePage.background": "#27262e",
     "welcomePage.tileBackground": "#1f1e25",
@@ -143,7 +143,7 @@
     "editorBracketMatch.border": "#9996aa60",
     "editorCodeLens.foreground": "#5c596b80",
     "editorCursor.foreground": "#b2aec5",
-    "editorGroup.border": "#1c1a2b",
+    "editorGroup.border": "#52525ec4",
     "editorGroup.dropBackground": "#9996aa15",
     "editorHoverWidget.background": "#1f1e25",
     "editorHoverWidget.border": "#17161bd7",
@@ -237,7 +237,7 @@
     "minimapGutter.addedBackground": "#67cf85",
     "minimapGutter.deletedBackground": "#cf4d4d",
     "minimapGutter.modifiedBackground": "#63c0ff",
-    "minimap.foregroundOpacity" : "default",
+    "minimap.foregroundOpacity": "default",
 
     "notificationCenterHeader.foreground": "#d4d3db",
     "notificationCenterHeader.background": "#5772a0",
@@ -251,14 +251,14 @@
 
     "panel.background": "#1f1e25",
     "panel.border": "#52525ec4",
-    "panel.dropBorder": "#1a2c36dc",
-    "panelSection.border": "#1a2c36dc",
+    "panel.dropBorder": "#52525ec4",
+    "panelSection.border": "#52525ec4",
     "panelTitle.activeBorder": "#9996aa",
     "panelTitle.activeForeground": "#d4d3db",
     "panelTitle.inactiveForeground": "#9695a0",
     "panelSectionHeader.background": "#5d5f6220",
     "panelSectionHeader.foreground": "#d4d3db",
-    "panelSectionHeader.border": "#1a2c36dc",
+    "panelSectionHeader.border": "#52525ec4",
 
     "peekViewEditor.background": "#27262e",
     "peekViewEditorGutter.background": "#27262e",
@@ -332,7 +332,7 @@
     "statusBarItem.remoteHoverBackground": "#568ba3",
 
     "editorStickyScroll.background": "#1f1e25",
-    "editorStickyScroll.border": "#1a2c36dc",
+    "editorStickyScroll.border": "#52525ec4",
     "editorStickyScroll.shadow": "#17161bd7",
     "editorStickyScrollHover.background": "#1f1e25",
 
@@ -349,16 +349,17 @@
     "tab.activeBackground": "#35343d",
     "tab.activeForeground": "#d4d3db",
     "tab.activeBorderTop": "#9ebdca00",
-    "tab.activeBorder": "#3840524f",
+    "tab.activeBorder": "#17161b4f",
     "tab.border": "#17161bd7",
     "tab.hoverBackground": "#35343d",
     "tab.inactiveBackground": "#1f1e25",
-    "tab.inactiveForeground": "#9f9dac",
-    "tab.unfocusedHoverBackground": "#3840524f",
-    "tab.unfocusedInactiveForeground": "#5d5f62",
-    "tab.unfocusedActiveBorder": "#3840524f",
-    "tab.unfocusedActiveForeground": "#758992",
-    "tab.unfocusedActiveBorderTop": "#758992",
+    "tab.inactiveForeground": "#d4d3dba8",
+    "tab.unfocusedHoverBackground": "#35343d65",
+    "tab.unfocusedInactiveForeground": "#d4d3db70",
+    "tab.unfocusedActiveBorder": "#17161b4f",
+    "tab.unfocusedActiveForeground": "#d4d3dbc0",
+    "tab.unfocusedActiveBackground": "#35343d65",
+    "tab.unfocusedActiveBorderTop": "#9f9dac00",
     "tab.lastPinnedBorder": "#17161bd7",
 
     "terminal.ansiBlack": "#514f5f",
@@ -533,8 +534,8 @@
         "constant.character.character-class.regexp"
       ],
       "settings": {
-        "foreground": "#c39dce",
-        "fontStyle": "bold"
+        "foreground": "#9ba1e2",
+        "fontStyle": ""
       }
     },
     {
@@ -569,7 +570,7 @@
       "name": "enum",
       "scope": ["variable.other.enum", "entity.name.type.enum"],
       "settings": {
-        "foreground": "#cf8799",
+        "foreground": "#9ba1e2",
         "fontStyle": ""
       }
     },
@@ -581,7 +582,7 @@
         "entity.name.variable.enum-member"
       ],
       "settings": {
-        "foreground": "#c39dce",
+        "foreground": "#9ba1e2",
         "fontStyle": "bold"
       }
     },
@@ -874,7 +875,7 @@
         "keyword.control.razor.directive.codeblock.close"
       ],
       "settings": {
-        "foreground": "#c39dce",
+        "foreground": "#9ba1e2",
         "fontStyle": ""
       }
     },
@@ -1272,7 +1273,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#c39dce"
+        "foreground": "#9ba1e2"
       }
     },
     {
@@ -1361,7 +1362,7 @@
       "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#c39dce"
+        "foreground": "#9ba1e2"
       }
     },
     {
@@ -1515,7 +1516,7 @@
       "name": "css property value",
       "scope": ["meta.property-value", "support.constant.property-value.css"],
       "settings": {
-        "foreground": "#c39dce",
+        "foreground": "#9ba1e2",
         "fontStyle": "italic"
       }
     },
@@ -1630,11 +1631,11 @@
       "fontStyle": ""
     },
     "enum": {
-      "foreground": "#ca99b7",
+      "foreground": "#9ba1e2",
       "fontStyle": ""
     },
     "enumMember": {
-      "foreground": "#c39dce",
+      "foreground": "#9ba1e2",
       "fontStyle": "bold"
     },
     "field": {
@@ -1666,7 +1667,7 @@
       "fontStyle": ""
     },
     "delegate": {
-      "foreground": "#c39dce",
+      "foreground": "#9ba1e2",
       "fontStyle": ""
     },
     "parameter": {
@@ -1698,12 +1699,12 @@
       "fontStyle": ""
     },
     "constant": {
-      "foreground": "#c39dce",
-      "fontStyle": "bold"
+      "foreground": "#9ba1e2",
+      "fontStyle": ""
     },
     "builtinConstant": {
-      "foreground": "#c39dce",
-      "fontStyle": "bold"
+      "foreground": "#9ba1e2",
+      "fontStyle": ""
     },
     "string": {
       "foreground": "#96ccac",
@@ -1770,15 +1771,15 @@
       "fontStyle": "italic"
     },
     "razorTransition": {
-      "foreground": "#c39dce",
+      "foreground": "#9ba1e2",
       "fontStyle": "italic"
     },
     "razorDirective": {
-      "foreground": "#c39dce",
+      "foreground": "#9ba1e2",
       "fontStyle": "italic"
     },
     "razorDirectiveAttribute": {
-      "foreground": "#c39dce",
+      "foreground": "#9ba1e2",
       "fontStyle": "italic"
     },
     "razorComponentElement": {
@@ -1806,7 +1807,7 @@
       "fontStyle": "italic"
     },
     "xmlDocCommentText": {
-      "foreground": "#abb8a9",
+      "foreground": "#a3b99e",
       "fontStyle": "italic"
     },
     "xmlDocCommentComment": {
@@ -1814,7 +1815,7 @@
       "fontStyle": "italic"
     },
     "xmlDocCommentDelimiter": {
-      "foreground": "#879282",
+      "foreground": "#a3b99e",
       "fontStyle": "italic"
     },
     "xmlDocCommentAttributeName": {
