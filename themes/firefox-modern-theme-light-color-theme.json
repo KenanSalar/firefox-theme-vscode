@@ -351,6 +351,7 @@
     "tab.activeBorderTop": "#9ebdca00",
     "tab.activeBorder": "#38405200",
     "tab.border": "#d4d4d4d7",
+    "tab.dragAndDropBorder": "#3a3a42c4",
     "tab.hoverBackground": "#b2b2b89f",
     "tab.inactiveBackground": "#bfbfc2",
     "tab.inactiveForeground": "#141416c0",

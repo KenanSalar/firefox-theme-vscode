@@ -12,7 +12,7 @@
     "activityBar.activeBackground": "#35343d",
     "activityBarBadge.background": "#9996aa",
     "activityBarBadge.foreground": "#1f1e25",
-    "activityBar.dropBorder": "#52525ec4",
+    "activityBar.dropBorder": "#52525edc",
 
     "welcomePage.background": "#17161b",
     "welcomePage.tileBackground": "#1f1e25",
@@ -143,7 +143,7 @@
     "editorBracketMatch.border": "#9996aa60",
     "editorCodeLens.foreground": "#5c596b80",
     "editorCursor.foreground": "#b2aec5",
-    "editorGroup.border": "#52525ec4",
+    "editorGroup.border": "#52525edc",
     "editorGroup.dropBackground": "#9996aa15",
     "editorHoverWidget.background": "#1f1e25",
     "editorHoverWidget.border": "#17161bd7",
@@ -176,7 +176,7 @@
 
     "input.background": "#17161b",
     "input.foreground": "#d4d3db",
-    "input.border": "#52525ec4",
+    "input.border": "#52525edc",
     "input.placeholderForeground": "#9996aa",
     "inputOption.activeBorder": "#9996aa",
     "inputValidation.errorBackground": "#1f1e25",
@@ -211,7 +211,7 @@
     "gitDecoration.ignoredResourceForeground": "#5d5f62",
     "gitDecoration.conflictingResourceForeground": "#89a9b8",
 
-    "menu.border": "#52525ec4",
+    "menu.border": "#52525edc",
     "menu.background": "#1f1e25",
     "menu.foreground": "#aaabae",
     "menu.separatorBackground": "#17161bd7",
@@ -250,15 +250,15 @@
     "notificationsInfoIcon.foreground": "#63c0ff",
 
     "panel.background": "#1f1e25",
-    "panel.border": "#52525ec4",
-    "panel.dropBorder": "#52525ec4",
-    "panelSection.border": "#52525ec4",
+    "panel.border": "#52525edc",
+    "panel.dropBorder": "#52525edc",
+    "panelSection.border": "#52525edc",
     "panelTitle.activeBorder": "#9996aa",
     "panelTitle.activeForeground": "#d4d3db",
     "panelTitle.inactiveForeground": "#9695a0",
     "panelSectionHeader.background": "#5d5f6220",
     "panelSectionHeader.foreground": "#d4d3db",
-    "panelSectionHeader.border": "#52525ec4",
+    "panelSectionHeader.border": "#52525edc",
 
     "peekViewEditor.background": "#17161b",
     "peekViewEditorGutter.background": "#17161b",
@@ -332,7 +332,7 @@
     "statusBarItem.remoteHoverBackground": "#568ba3",
 
     "editorStickyScroll.background": "#1f1e25",
-    "editorStickyScroll.border": "#52525ec4",
+    "editorStickyScroll.border": "#52525edc",
     "editorStickyScroll.shadow": "#17161bd7",
     "editorStickyScrollHover.background": "#1f1e25",
 
@@ -351,6 +351,7 @@
     "tab.activeBorderTop": "#9ebdca00",
     "tab.activeBorder": "#17161b4f",
     "tab.border": "#17161bd7",
+    "tab.dragAndDropBorder": "#52525edc",
     "tab.hoverBackground": "#35343d",
     "tab.inactiveBackground": "#1f1e25",
     "tab.inactiveForeground": "#d4d3dba8",

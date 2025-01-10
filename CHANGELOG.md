@@ -1,5 +1,11 @@
 # Change Log
 
+## Changes of version 1.0.7
+
+- Fixed dropborder color of tabs
+
+---
+
 ## Changes of version 1.0.6
 
 - Fixed tab behavior and colorization
