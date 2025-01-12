@@ -1,5 +1,11 @@
 # Change Log
 
+## Changes of version 1.0.8
+
+- Increased syntax color saturation slightly
+
+---
+
 ## Changes of version 1.0.7
 
 - Fixed dropborder color of tabs
