@@ -484,7 +484,7 @@
         "markup.fenced_code.block"
       ],
       "settings": {
-        "foreground": "#c9cfe0",
+        "foreground": "#b8c0d4",
         "fontStyle": ""
       }
     },
@@ -496,7 +496,7 @@
         "variable.import.parameter"
       ],
       "settings": {
-        "foreground": "#b5bdd3",
+        "foreground": "#abb0ce",
         "fontStyle": "italic"
       }
     },
@@ -861,7 +861,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#cb96d1",
+        "foreground": "#c893ce",
         "fontStyle": ""
       }
     },
@@ -1129,7 +1129,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#cb96d1"
+        "foreground": "#c893ce"
       }
     },
     {
@@ -1294,7 +1294,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#cb96d1"
+        "foreground": "#c893ce"
       }
     },
     {
@@ -1388,7 +1388,7 @@
       ],
       "settings": {
         "fontStyle": "italic bold",
-        "foreground": "#cb96d1"
+        "foreground": "#c893ce"
       }
     },
     {
@@ -1511,7 +1511,7 @@
       "name": "css property name",
       "scope": ["support.type.property-name.css"],
       "settings": {
-        "foreground": "#cb96d1",
+        "foreground": "#c893ce",
         "fontStyle": ""
       }
     },
@@ -1646,11 +1646,11 @@
       "fontStyle": ""
     },
     "property": {
-      "foreground": "#cb96d1",
+      "foreground": "#c893ce",
       "fontStyle": ""
     },
     "recordComponent": {
-      "foreground": "#cb96d1",
+      "foreground": "#c893ce",
       "fontStyle": ""
     },
     "function": {
@@ -1674,7 +1674,7 @@
       "fontStyle": ""
     },
     "parameter": {
-      "foreground": "#b5bdd3",
+      "foreground": "#abb0ce",
       "fontStyle": "italic"
     },
     "typeParameter": {

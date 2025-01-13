@@ -1,7 +1,16 @@
 # Change Log
 
+## Changes of version 1.0.9
+
+- **Dark Theme**
+- Toned down the brightness of variables
+- Parameters are now better distinguishable from variables
+
+---
+
 ## Changes of version 1.0.8
 
+- **Dark Theme**
 - Increased syntax color saturation slightly
 
 ---
