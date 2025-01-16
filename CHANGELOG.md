@@ -1,5 +1,19 @@
 # Change Log
 
+## Changes of version 1.1.0
+
+- **Dark Theme**
+- Adjusted class and interface color a little
+
+- **Darker Theme**
+- Adjusted class and interface color a little
+- Terminal colors are not the same as in the dark theme
+
+- **Light Theme**
+- Improved syntax and ui foreground color
+
+---
+
 ## Changes of version 1.0.9
 
 - **Dark Theme**

@@ -363,24 +363,24 @@
     "tab.unfocusedActiveBorderTop": "#9f9dac00",
     "tab.lastPinnedBorder": "#17161bd7",
 
-    "terminal.ansiBlack": "#484655",
-    "terminal.ansiBlue": "#668ba5",
-    "terminal.ansiGreen": "#74a587",
-    "terminal.ansiCyan": "#57969b",
-    "terminal.ansiRed": "#9c645b",
-    "terminal.ansiMagenta": "#8e81b4",
-    "terminal.ansiYellow": "#ac966c",
-    "terminal.ansiWhite": "#b7b4c5",
-    "terminal.ansiBrightBlack": "#9694a7",
-    "terminal.ansiBrightBlue": "#89b1cf",
-    "terminal.ansiBrightGreen": "#8bc0a0",
-    "terminal.ansiBrightCyan": "#75b8bd",
-    "terminal.ansiBrightRed": "#c9857b",
-    "terminal.ansiBrightMagenta": "#a799cc",
-    "terminal.ansiBrightYellow": "#ccb78c",
-    "terminal.ansiBrightWhite": "#cdcada",
+    "terminal.ansiBlack": "#514f5f",
+    "terminal.ansiBlue": "#6d93af",
+    "terminal.ansiGreen": "#79ac8d",
+    "terminal.ansiCyan": "#5d9ea3",
+    "terminal.ansiRed": "#a86f66",
+    "terminal.ansiMagenta": "#988abe",
+    "terminal.ansiYellow": "#b6a075",
+    "terminal.ansiWhite": "#bebbcc",
+    "terminal.ansiBrightBlack": "#9f9daf",
+    "terminal.ansiBrightBlue": "#8bb6d6",
+    "terminal.ansiBrightGreen": "#92cca9",
+    "terminal.ansiBrightCyan": "#7bbfc4",
+    "terminal.ansiBrightRed": "#d38680",
+    "terminal.ansiBrightMagenta": "#b1a2d8",
+    "terminal.ansiBrightYellow": "#d3c08c",
+    "terminal.ansiBrightWhite": "#d3d0e0",
     "terminal.background": "#17161b",
-    "terminal.foreground": "#b6bccc",
+    "terminal.foreground": "#babfd1",
     "terminalCursor.background": "#17161b",
     "terminalCursor.foreground": "#b2aec5",
     "terminal.selectionForeground": "#504e5f",
@@ -555,7 +555,7 @@
         "entity.name.type.cs"
       ],
       "settings": {
-        "foreground": "#c29d85",
+        "foreground": "#caa086",
         "fontStyle": ""
       }
     },
@@ -591,7 +591,7 @@
       "name": "interface",
       "scope": ["variable.other.interface", "entity.name.type.interface"],
       "settings": {
-        "foreground": "#c7b084",
+        "foreground": "#cab886",
         "fontStyle": ""
       }
     },
@@ -742,7 +742,7 @@
         "variable.type.type-parameter"
       ],
       "settings": {
-        "foreground": "#c29d85",
+        "foreground": "#caa086",
         "fontStyle": "italic"
       }
     },
@@ -1238,7 +1238,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#c29d85"
+        "foreground": "#caa086"
       }
     },
     {
@@ -1301,7 +1301,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#c7b084"
+        "foreground": "#cab886"
       }
     },
     {
@@ -1355,7 +1355,7 @@
       "name": "Markdown - Section",
       "scope": ["entity.name.section.markdown"],
       "settings": {
-        "foreground": "#c29d85"
+        "foreground": "#caa086"
       }
     },
     {
@@ -1493,7 +1493,7 @@
         "entity.other.attribute-name.class.css punctuation.definition.entity.css"
       ],
       "settings": {
-        "foreground": "#c29d85",
+        "foreground": "#caa086",
         "fontStyle": ""
       }
     },
@@ -1608,15 +1608,15 @@
       "fontStyle": ""
     },
     "class": {
-      "foreground": "#c29d85",
+      "foreground": "#caa086",
       "fontStyle": ""
     },
     "recordClass": {
-      "foreground": "#c29d85",
+      "foreground": "#caa086",
       "fontStyle": ""
     },
     "record": {
-      "foreground": "#c29d85",
+      "foreground": "#caa086",
       "fontStyle": ""
     },
     "struct": {
@@ -1628,7 +1628,7 @@
       "fontStyle": ""
     },
     "interface": {
-      "foreground": "#c7b084",
+      "foreground": "#cab886",
       "fontStyle": ""
     },
     "enum": {
@@ -1676,7 +1676,7 @@
       "fontStyle": "italic"
     },
     "typeParameter": {
-      "foreground": "#c29d85",
+      "foreground": "#caa086",
       "fontStyle": "italic"
     },
     "event": {

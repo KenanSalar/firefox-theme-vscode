@@ -379,7 +379,7 @@
     "terminal.ansiBrightCyan": "#7bbfc4",
     "terminal.ansiBrightRed": "#d38680",
     "terminal.ansiBrightMagenta": "#b1a2d8",
-    "terminal.ansiBrightYellow": "#d4c392",
+    "terminal.ansiBrightYellow": "#d3c08c",
     "terminal.ansiBrightWhite": "#d3d0e0",
     "terminal.background": "#27262e",
     "terminal.foreground": "#bec4d4",
@@ -557,7 +557,7 @@
         "entity.name.type.cs"
       ],
       "settings": {
-        "foreground": "#d4aa90",
+        "foreground": "#d3a78c",
         "fontStyle": ""
       }
     },
@@ -593,7 +593,7 @@
       "name": "interface",
       "scope": ["variable.other.interface", "entity.name.type.interface"],
       "settings": {
-        "foreground": "#d4c392",
+        "foreground": "#d3c08c",
         "fontStyle": ""
       }
     },
@@ -744,7 +744,7 @@
         "variable.type.type-parameter"
       ],
       "settings": {
-        "foreground": "#d4aa90",
+        "foreground": "#d3a78c",
         "fontStyle": "italic"
       }
     },
@@ -1240,7 +1240,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#d4aa90"
+        "foreground": "#d3a78c"
       }
     },
     {
@@ -1303,7 +1303,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#d4c392"
+        "foreground": "#d3c08c"
       }
     },
     {
@@ -1357,7 +1357,7 @@
       "name": "Markdown - Section",
       "scope": ["entity.name.section.markdown"],
       "settings": {
-        "foreground": "#d4aa90"
+        "foreground": "#d3a78c"
       }
     },
     {
@@ -1495,7 +1495,7 @@
         "entity.other.attribute-name.class.css punctuation.definition.entity.css"
       ],
       "settings": {
-        "foreground": "#d4aa90",
+        "foreground": "#d3a78c",
         "fontStyle": ""
       }
     },
@@ -1610,15 +1610,15 @@
       "fontStyle": ""
     },
     "class": {
-      "foreground": "#d4aa90",
+      "foreground": "#d3a78c",
       "fontStyle": ""
     },
     "recordClass": {
-      "foreground": "#d4aa90",
+      "foreground": "#d3a78c",
       "fontStyle": ""
     },
     "record": {
-      "foreground": "#d4aa90",
+      "foreground": "#d3a78c",
       "fontStyle": ""
     },
     "struct": {
@@ -1630,7 +1630,7 @@
       "fontStyle": ""
     },
     "interface": {
-      "foreground": "#d4c392",
+      "foreground": "#d3c08c",
       "fontStyle": ""
     },
     "enum": {
@@ -1678,7 +1678,7 @@
       "fontStyle": "italic"
     },
     "typeParameter": {
-      "foreground": "#d4aa90",
+      "foreground": "#d3a78c",
       "fontStyle": "italic"
     },
     "event": {
