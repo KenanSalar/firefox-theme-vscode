@@ -1,5 +1,18 @@
 # Change Log
 
+## Changes of version 1.1.1
+
+- **Dark Theme**
+- Changed tab behavior (no bottom border anymore)
+- Decreased the brightness of the active titlebar foreground
+- Command center foreground when hovering matches the theme now
+- Sidebar foreground is now slightly brighter
+
+- **Darker Theme**
+- Same changes as in the dark theme
+
+---
+
 ## Changes of version 1.1.0
 
 - **Dark Theme**
