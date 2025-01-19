@@ -141,7 +141,7 @@
     "editor.wordHighlightBackground": "#9996aa20",
     "editorBracketMatch.background": "#9996aa40",
     "editorBracketMatch.border": "#9996aa60",
-    "editorCodeLens.foreground": "#5c596b80",
+    "editorCodeLens.foreground": "#b2aec5c4",
     "editorCursor.foreground": "#b2aec5",
     "editorGroup.border": "#52525edc",
     "editorGroup.dropBackground": "#9996aa15",
@@ -151,7 +151,7 @@
     "editorIndentGuide.background1": "#9996aa30",
     "editorIndentGuide.activeBackground1": "#9996aabb",
 
-    "editorLink.activeForeground": "#aaaaff",
+    "editorLink.activeForeground": "#b2aec5",
     "editorWarning.border": "#00000000",
     "editorInfo.border": "#00000000",
     "editorGutter.commentRangeForeground": "#1f1e25",
@@ -166,8 +166,8 @@
     "editorGutter.addedBackground": "#62ca80cc",
     "editorGutter.deletedBackground": "#c54848cc",
     "editorGutter.modifiedBackground": "#539fd1cc",
-    "editorLineNumber.foreground": "#5d5f6290",
-    "editorLineNumber.activeForeground": "#5d5f62",
+    "editorLineNumber.foreground": "#b2aec573",
+    "editorLineNumber.activeForeground": "#b2aec5e0",
 
     "dropdown.background": "#27262e",
     "dropdown.listBackground": "#27262e",
@@ -329,7 +329,7 @@
     "statusBarItem.remoteBackground": "#1f1e25",
     "statusBarItem.remoteForeground": "#c5c5c5",
     "statusBarItem.remoteHoverForeground": "#ffffff",
-    "statusBarItem.remoteHoverBackground": "#568ba3",
+    "statusBarItem.remoteHoverBackground": "#9996aa90",
 
     "editorStickyScroll.background": "#1f1e25",
     "editorStickyScroll.border": "#52525edc",

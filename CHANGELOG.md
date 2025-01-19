@@ -1,5 +1,17 @@
 # Change Log
 
+## Changes of version 1.1.2
+
+- **Dark Theme**
+- Codelens is now more visible
+- Line numbers are now brighter
+- Remote status bar item hover matches the theme now
+
+- **Darker Theme**
+- Same changes as in the dark theme + adjusted inlay hints
+
+---
+
 ## Changes of version 1.1.1
 
 - **Dark Theme**
