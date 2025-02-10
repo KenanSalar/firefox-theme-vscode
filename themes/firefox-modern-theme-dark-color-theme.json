@@ -431,6 +431,8 @@
       "name": "variable",
       "scope": [
         "variable",
+        "variable.other.readwrite",
+        "entity.name.variable",
         "string constant.other.placeholder",
         "variable.object",
         "support",
@@ -438,7 +440,6 @@
         "meta.toc-list.id.html",
         "source.json meta.structure.dictionary.json support.type.property-name.json",
         "meta.var.clojure",
-        "entity.name.variable",
         "source.java meta.class.body.java",
         "entity.name.package.go",
         "source.c",
@@ -866,6 +867,14 @@
       }
     },
     {
+      "name": "property readonly",
+      "scope": ["variable.other.constant.property"],
+      "settings": {
+        "foreground": "#ac76b3",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "razor directive",
       "scope": [
         "keyword.control.razor.directive",
@@ -920,7 +929,7 @@
         "keyword.operator.ternary"
       ],
       "settings": {
-        "foreground": "#b7b4d1",
+        "foreground": "#bdbbd4",
         "fontStyle": ""
       }
     },
@@ -935,10 +944,12 @@
         "punctuation.curlybrace.open",
         "punctuation.curlybrace.close",
         "punctuation.definition.typeparameters.begin",
-        "punctuation.definition.typeparameters.end"
+        "punctuation.definition.typeparameters.end",
+        "punctuation.separator.key-value",
+        "punctuation.accessor"
       ],
       "settings": {
-        "foreground": "#b7b4d1",
+        "foreground": "#bdbbd4",
         "fontStyle": ""
       }
     },
@@ -1503,7 +1514,7 @@
       "name": "css unit",
       "scope": ["keyword.other.unit"],
       "settings": {
-        "foreground": "#b7b4d1",
+        "foreground": "#bdbbd4",
         "fontStyle": ""
       }
     },
@@ -1613,6 +1624,10 @@
       "foreground": "#d3a78c",
       "fontStyle": ""
     },
+    "class.defaultLibrary": {
+      "foreground": "#d3a78c",
+      "fontStyle": ""
+    },
     "recordClass": {
       "foreground": "#d3a78c",
       "fontStyle": ""
@@ -1649,11 +1664,19 @@
       "foreground": "#c893ce",
       "fontStyle": ""
     },
+    "property.readonly": {
+      "foreground": "#ac76b3",
+      "fontStyle": "italic"
+    },
     "recordComponent": {
       "foreground": "#c893ce",
       "fontStyle": ""
     },
     "function": {
+      "foreground": "#8bb6d6",
+      "fontStyle": ""
+    },
+    "function.defaultLibrary": {
       "foreground": "#8bb6d6",
       "fontStyle": ""
     },
@@ -1690,7 +1713,7 @@
       "fontStyle": ""
     },
     "operator": {
-      "foreground": "#b7b4d1",
+      "foreground": "#bdbbd4",
       "fontStyle": ""
     },
     "operatorOverload": {
@@ -1698,7 +1721,7 @@
       "fontStyle": "bold"
     },
     "punctuation": {
-      "foreground": "#b7b4d1",
+      "foreground": "#bdbbd4",
       "fontStyle": ""
     },
     "constant": {
@@ -1734,7 +1757,7 @@
       "fontStyle": ""
     },
     "regexCharacterClass": {
-      "foreground": "#b7b4d1",
+      "foreground": "#bdbbd4",
       "fontStyle": "italic"
     },
     "markupComment": {
@@ -1746,7 +1769,7 @@
       "fontStyle": "italic"
     },
     "markupOperator": {
-      "foreground": "#b7b4d1",
+      "foreground": "#bdbbd4",
       "fontStyle": ""
     },
     "markupTagDelimiter": {

@@ -1,5 +1,14 @@
 # Change Log
 
+## Changes of version 1.1.3
+
+- **All Themes**
+- Added js punctuation color
+- Added semantic highlighting for function.defaultLibrary, property.readonly and class.defaultLibrary
+
+- **Darker Theme and Light Theme**
+- Changed fixed string escape color
+
 ## Changes of version 1.1.2
 
 - **Dark Theme**
