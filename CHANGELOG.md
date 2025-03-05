@@ -1,5 +1,10 @@
 # Change Log
 
+## Changes of version 1.1.4
+
+- **Dark Theme and Darker Theme**
+- Increased syntax brightness slightly for better readability
+
 ## Changes of version 1.1.3
 
 - **All Themes**
