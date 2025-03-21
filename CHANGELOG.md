@@ -1,5 +1,11 @@
 # Change Log
 
+## Changes of version 1.1.5
+
+- **Dark Theme and Darker Theme**
+- Reduced saturation of comments
+- XML attribute color changes
+
 ## Changes of version 1.1.4
 
 - **Dark Theme and Darker Theme**

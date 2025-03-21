@@ -424,7 +424,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#a2bb9d"
+        "foreground": "#aeb3ae"
       }
     },
     {
@@ -1749,7 +1749,7 @@
       "fontStyle": ""
     },
     "comment": {
-      "foreground": "#a2bb9d",
+      "foreground": "#aeb3ae",
       "fontStyle": "italic"
     },
     "text": {
@@ -1761,11 +1761,11 @@
       "fontStyle": "italic"
     },
     "markupComment": {
-      "foreground": "#a2bb9d",
+      "foreground": "#aeb3ae",
       "fontStyle": "italic"
     },
     "markupCommentPunctuation": {
-      "foreground": "#a2bb9d",
+      "foreground": "#aeb3ae",
       "fontStyle": "italic"
     },
     "markupOperator": {
@@ -1793,7 +1793,7 @@
       "fontStyle": ""
     },
     "razorComment": {
-      "foreground": "#a2bb9d",
+      "foreground": "#aeb3ae",
       "fontStyle": "italic"
     },
     "razorTransition": {
@@ -1833,27 +1833,27 @@
       "fontStyle": "italic"
     },
     "xmlDocCommentText": {
-      "foreground": "#a2bb9d",
+      "foreground": "#aeb3ae",
       "fontStyle": "italic"
     },
     "xmlDocCommentComment": {
-      "foreground": "#a2bb9d",
+      "foreground": "#aeb3ae",
       "fontStyle": "italic"
     },
     "xmlDocCommentDelimiter": {
-      "foreground": "#a2bb9d",
+      "foreground": "#aeb3ae",
       "fontStyle": "italic"
     },
     "xmlDocCommentAttributeName": {
-      "foreground": "#b68ea5",
+      "foreground": "#b390a4",
       "fontStyle": "italic"
     },
     "xmlDocCommentAttributeValue": {
-      "foreground": "#77a080",
+      "foreground": "#93d1ac",
       "fontStyle": "italic"
     },
     "xmlDocCommentAttributeQuotes": {
-      "foreground": "#77a080",
+      "foreground": "#93d1ac",
       "fontStyle": "italic"
     }
   }
