@@ -429,6 +429,8 @@
       "name": "variable",
       "scope": [
         "variable",
+        "variable.css",
+        "variable.scss",
         "variable.other.readwrite",
         "entity.name.variable",
         "string constant.other.placeholder",

@@ -379,7 +379,7 @@
     "terminal.ansiBrightCyan": "#7bbfc4",
     "terminal.ansiBrightRed": "#d38680",
     "terminal.ansiBrightMagenta": "#b1a2d8",
-    "terminal.ansiBrightYellow": "#d3c08c",
+    "terminal.ansiBrightYellow": "#d6c38d",
     "terminal.ansiBrightWhite": "#d3d0e0",
     "terminal.background": "#17161b",
     "terminal.foreground": "#babfd1",
@@ -431,6 +431,8 @@
       "name": "variable",
       "scope": [
         "variable",
+        "variable.css",
+        "variable.scss",
         "variable.other.readwrite",
         "entity.name.variable",
         "string constant.other.placeholder",
@@ -485,7 +487,7 @@
         "markup.fenced_code.block"
       ],
       "settings": {
-        "foreground": "#b8c0d4",
+        "foreground": "#94c8ca",
         "fontStyle": ""
       }
     },
@@ -497,7 +499,7 @@
         "variable.import.parameter"
       ],
       "settings": {
-        "foreground": "#afb4d3",
+        "foreground": "#a7c6c7",
         "fontStyle": "italic"
       }
     },
@@ -594,7 +596,7 @@
       "name": "interface",
       "scope": ["variable.other.interface", "entity.name.type.interface"],
       "settings": {
-        "foreground": "#dbc78f",
+        "foreground": "#d6c38d",
         "fontStyle": ""
       }
     },
@@ -895,14 +897,14 @@
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#c0c1cf"
+        "foreground": "#cacbd6"
       }
     },
     {
       "name": "Meta selector",
       "scope": ["meta.selector"],
       "settings": {
-        "foreground": "#c0c1cf"
+        "foreground": "#cacbd6"
       }
     },
     {
@@ -1314,7 +1316,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#dbc78f"
+        "foreground": "#d6c38d"
       }
     },
     {
@@ -1334,7 +1336,7 @@
         "meta.paragraph.markdown"
       ],
       "settings": {
-        "foreground": "#c0c1cf"
+        "foreground": "#cacbd6"
       }
     },
     {
@@ -1585,7 +1587,7 @@
       "name": "text",
       "scope": ["text"],
       "settings": {
-        "foreground": "#c0c1cf",
+        "foreground": "#cacbd6",
         "fontStyle": ""
       }
     }
@@ -1645,7 +1647,7 @@
       "fontStyle": ""
     },
     "interface": {
-      "foreground": "#dbc78f",
+      "foreground": "#d6c38d",
       "fontStyle": ""
     },
     "enum": {
@@ -1697,7 +1699,7 @@
       "fontStyle": ""
     },
     "parameter": {
-      "foreground": "#afb4d3",
+      "foreground": "#a7c6c7",
       "fontStyle": "italic"
     },
     "typeParameter": {
@@ -1753,7 +1755,7 @@
       "fontStyle": "italic"
     },
     "text": {
-      "foreground": "#c0c1cf",
+      "foreground": "#cacbd6",
       "fontStyle": ""
     },
     "regexCharacterClass": {

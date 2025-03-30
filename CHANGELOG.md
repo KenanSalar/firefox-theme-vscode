@@ -1,5 +1,12 @@
 # Change Log
 
+## Changes of version 1.1.6
+
+- **Dark Theme and Darker Theme**
+- changed variable, parameter and text color
+- decresed the brightness of interface and string colors
+- added variable.css and variable.scss
+
 ## Changes of version 1.1.5
 
 - **Dark Theme and Darker Theme**
