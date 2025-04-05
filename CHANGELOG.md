@@ -1,5 +1,11 @@
 # Change Log
 
+## Changes of version 1.1.7
+
+- **Dark Theme and Darker Theme**
+- Properties are now more easily distinguishable from attributes
+- Changed Parameter color
+
 ## Changes of version 1.1.6
 
 - **Dark Theme and Darker Theme**

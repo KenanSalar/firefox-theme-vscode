@@ -487,7 +487,7 @@
         "markup.fenced_code.block"
       ],
       "settings": {
-        "foreground": "#94c8ca",
+        "foreground": "#9fcacc",
         "fontStyle": ""
       }
     },
@@ -495,7 +495,7 @@
       "name": "parameter",
       "scope": ["entity.name.variable.parameter", "variable.parameter", "variable.import.parameter"],
       "settings": {
-        "foreground": "#a7c6c7",
+        "foreground": "#abb9ce",
         "fontStyle": "italic"
       }
     },
@@ -845,7 +845,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#d297d8",
+        "foreground": "#d18fd8",
         "fontStyle": ""
       }
     },
@@ -853,7 +853,7 @@
       "name": "property readonly",
       "scope": ["variable.other.constant.property"],
       "settings": {
-        "foreground": "#b07ab6",
+        "foreground": "#b87dbe",
         "fontStyle": "italic"
       }
     },
@@ -1123,7 +1123,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#d297d8"
+        "foreground": "#d18fd8"
       }
     },
     {
@@ -1272,7 +1272,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#d297d8"
+        "foreground": "#d18fd8"
       }
     },
     {
@@ -1360,7 +1360,7 @@
       ],
       "settings": {
         "fontStyle": "italic bold",
-        "foreground": "#d297d8"
+        "foreground": "#d18fd8"
       }
     },
     {
@@ -1479,7 +1479,7 @@
       "name": "css property name",
       "scope": ["support.type.property-name.css"],
       "settings": {
-        "foreground": "#d297d8",
+        "foreground": "#d18fd8",
         "fontStyle": ""
       }
     },
@@ -1615,15 +1615,15 @@
       "fontStyle": ""
     },
     "property": {
-      "foreground": "#d297d8",
+      "foreground": "#d18fd8",
       "fontStyle": ""
     },
     "property.readonly": {
-      "foreground": "#b07ab6",
+      "foreground": "#b87dbe",
       "fontStyle": "italic"
     },
     "recordComponent": {
-      "foreground": "#d297d8",
+      "foreground": "#d18fd8",
       "fontStyle": ""
     },
     "function": {
@@ -1651,7 +1651,7 @@
       "fontStyle": ""
     },
     "parameter": {
-      "foreground": "#a7c6c7",
+      "foreground": "#abb9ce",
       "fontStyle": "italic"
     },
     "typeParameter": {
