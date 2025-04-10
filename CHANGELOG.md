@@ -1,5 +1,10 @@
 # Change Log
 
+## Changes of version 1.1.8
+
+- **Dark Theme and Darker Theme**
+- Changed comment color to better match the theme
+
 ## Changes of version 1.1.7
 
 - **Dark Theme and Darker Theme**

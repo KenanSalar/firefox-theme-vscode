@@ -424,7 +424,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#aeb3ae"
+        "foreground": "#a5a5af"
       }
     },
     {
@@ -1703,7 +1703,7 @@
       "fontStyle": ""
     },
     "comment": {
-      "foreground": "#aeb3ae",
+      "foreground": "#a5a5af",
       "fontStyle": "italic"
     },
     "text": {
@@ -1715,11 +1715,11 @@
       "fontStyle": "italic"
     },
     "markupComment": {
-      "foreground": "#aeb3ae",
+      "foreground": "#a5a5af",
       "fontStyle": "italic"
     },
     "markupCommentPunctuation": {
-      "foreground": "#aeb3ae",
+      "foreground": "#a5a5af",
       "fontStyle": "italic"
     },
     "markupOperator": {
@@ -1747,7 +1747,7 @@
       "fontStyle": ""
     },
     "razorComment": {
-      "foreground": "#aeb3ae",
+      "foreground": "#a5a5af",
       "fontStyle": "italic"
     },
     "razorTransition": {
@@ -1787,15 +1787,15 @@
       "fontStyle": "italic"
     },
     "xmlDocCommentText": {
-      "foreground": "#aeb3ae",
+      "foreground": "#a5a5af",
       "fontStyle": "italic"
     },
     "xmlDocCommentComment": {
-      "foreground": "#aeb3ae",
+      "foreground": "#a5a5af",
       "fontStyle": "italic"
     },
     "xmlDocCommentDelimiter": {
-      "foreground": "#aeb3ae",
+      "foreground": "#a5a5af",
       "fontStyle": "italic"
     },
     "xmlDocCommentAttributeName": {
